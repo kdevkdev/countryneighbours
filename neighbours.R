@@ -1,3 +1,6 @@
+# license: GPLv3
+
+
 scriptPath <- function() {getSrcDirectory(scriptPath);}
 setwd(scriptPath())
 rm(list=ls())
